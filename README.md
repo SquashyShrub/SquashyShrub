@@ -3,7 +3,7 @@ My passion for technology was sparked when I first ventured into game developmen
 
 - 🔭 I’m currently working on developing a 3D adventure game using the Godot engine featuring various quests, enemy AI, and a linear storyline to follow. I'm also in the process of designing and whiteboarding a financial web application via Blazor with plans to start developing in the coming weeks.
 - 🌱 I’m expanding my skill set learning how to integrate SQL databases into a variety of applications while also building a solid foundation with the Azure cloud.
-- 📫 How to reach me: LinkedIn is the best way to reach me, see my profile for the link. I'm always open to connecting!
+- 📫 How to reach me: LinkedIn is the best way, I'm always open to connecting!
 
 
 <!--
