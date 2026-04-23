@@ -5,7 +5,7 @@ I am pursuing my B.S. in Software Engineering at Arizona State University (Class
 
 - 🔭 **Currently focusing on**: Data Structures (SER 222), Database Management (SER 322), and Software Process (SER 216).
 - ⚙️ **Tech Stack**: C#, Java, SQL, Blazor, Godot, GameMaker.
-- ⚡ **Fun Fact**: "Simple Space Shooter" was my first coding project at 14. it solidfiied my passion for tech.
+- ⚡ **Fun Fact**: "Simple Space Shooter" was my first coding project at 14 years of age solidifying my passion for technology.
 
 ---
 
