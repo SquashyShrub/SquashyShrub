@@ -17,4 +17,4 @@ I am pursuing my B.S. in Software Engineering at Arizona State University (Class
 ---
 
 ### 📊 Academic Progress
-*Currently balancing a rigorous 19-credit semester.  Engineering grind never stops.*
+*Currently balancing a 19-credit semester.  Engineering grind never stops.*
