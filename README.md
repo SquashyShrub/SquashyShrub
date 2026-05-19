@@ -1,20 +1,58 @@
-# Hi, I'm Josh.
+# Hi, I'm Josh 👋
 
-### Software Engineering Student @ ASU | Veteran
-I am pursuing my B.S. in Software Engineering at Arizona State University (Class of 2028). I specialize in C# and Game Development currently. At the moment, I'm managing a **19-credit engineering load** while building technical proficiency.
+Software Engineering student at Arizona State University (Class of 2028) with a background in military leadership, full-stack development, and game development.
 
-- 🔭 **Currently focusing on**: Data Structures (SER 222), Database Management (SER 322), and Software Process (SER 216).
-- ⚙️ **Tech Stack**: C#, Java, SQL, Blazor, Godot, GameMaker.
-- ⚡ **Fun Fact**: "Simple Space Shooter" was my first coding project at 14 years of age. I loved it so much I decided to make a career in tech!
+Currently focused on building strong software engineering fundamentals while developing projects involving AI workflows, backend systems, and interactive applications.
 
 ---
 
-### 🚀 Featured Work
-- **ShrubsBudgetFinance (ASP.NET/MSSQL)**: A full-stack budget management prototype.
-- **MSSA-Roguelike (C#)**: Procedural RPG engine built entirely within a console environment.
-- **3rd-Person-Controller (Godot/C#)**: Custom camera and movement logic.
+## 🚀 Current Focus
+- Software Engineering @ ASU
+- Data Structures & Algorithms
+- Full-Stack Web Development
+- AI-Assisted Development Workflows
+- Prompt Engineering & AI Tooling
+- Game Development with Godot & C#
 
 ---
 
-### 📊 Academic Progress
-*Currently balancing a 19-credit semester.  Engineering grind never stops.*
+## ⚙️ Tech Stack
+
+### Languages
+C#, Java, TypeScript, SQL, Python, GDScript
+
+### Frameworks & Tools
+Next.js, Blazor, ASP.NET, Tailwind CSS, Godot, GitHub, MSSQL
+
+### Currently Learning
+Next.js, TypeScript, AI API Integration, Modern Frontend Architecture
+
+---
+
+## 🛠 Featured Projects
+
+### PromptIQ *(In Development)*
+AI-assisted prompt optimization platform focused on improving prompt quality while teaching prompt engineering principles.
+
+### MSSA-Roguelike
+Console-based procedural RPG engine built entirely in C#.
+
+### 3rd-Person-Controller
+Custom third-person movement and camera controller built in Godot using C#.
+
+---
+
+## 📚 Academic Journey
+
+Currently balancing a high-intensity engineering workload while building real-world projects focused on:
+- software architecture
+- AI integration
+- backend systems
+- frontend engineering
+- scalable application design
+
+---
+
+## ⚡ Fun Fact
+
+My first coding project was a simple space shooter I built at 14 years old. That project is what pushed me toward pursuing software engineering professionally.
