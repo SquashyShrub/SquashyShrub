@@ -37,8 +37,8 @@ AI-assisted prompt optimization platform focused on improving prompt quality whi
 ### MSSA-Roguelike
 Console-based procedural RPG engine built entirely in C#.
 
-### 3rd-Person-Controller
-Custom third-person movement and camera controller built in Godot using C#.
+### VibeShift
+Experimental game development sandbox exploring AI-assisted workflows, procedural systems, gameplay architecture, and rapid prototyping using modern AI tooling.
 
 ---
 
