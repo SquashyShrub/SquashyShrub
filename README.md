@@ -44,7 +44,7 @@ Experimental game development sandbox exploring AI-assisted workflows, procedura
 
 ## 📚 Academic Journey
 
-Currently balancing a high-intensity engineering workload while building real-world projects focused on:
+Currently focused on building projects involving:
 - software architecture
 - AI integration
 - backend systems
