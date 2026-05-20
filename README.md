@@ -53,6 +53,6 @@ Currently focused on building projects involving:
 
 ---
 
-## ⚡ Orgin Story
+## ⚡ Origin Story
 
 My first coding project was a simple space shooter I built at 14 years old. That project is what pushed me toward pursuing software engineering professionally.
